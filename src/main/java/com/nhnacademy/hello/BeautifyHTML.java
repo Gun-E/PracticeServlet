@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import org.jsoup.Jsoup;
 
-@WebServlet("/beautifyHTML")
+@WebServlet(name = "beautifyHTML", urlPatterns = "/beautify")
 public class BeautifyHTML extends HttpServlet {
     private static final Logger log = Logger.getLogger(BeautifyHTML.class.getName());
 
