@@ -11,7 +11,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/multiServlet")
+@WebServlet(name = "multiServlet",urlPatterns = "/multi")
 public class MultiServlet extends HttpServlet {
     private static final Logger log = Logger.getLogger(MultiServlet.class.getName());
     @Override
