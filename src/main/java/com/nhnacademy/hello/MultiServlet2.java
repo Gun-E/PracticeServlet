@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import lombok.extern.slf4j.Slf4j;
 
-@WebServlet("/multiServlet2")
+@WebServlet(name = "multiServlet2",urlPatterns = "/multi2")
 public class MultiServlet2 extends HttpServlet {
     private static final Logger log = Logger.getLogger(MultiServlet2.class.getName());
 
