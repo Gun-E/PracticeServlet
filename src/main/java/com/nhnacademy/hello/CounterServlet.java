@@ -6,12 +6,15 @@ import java.util.Optional;
 import java.util.logging.Logger;
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebInitParam;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/counterServlet")
+@WebServlet(name = "counterServlet",urlPatterns = "/counter", initParams = {
+        @WebInitParam(name = "counter", value = "100")
+})
 public class CounterServlet extends HttpServlet {
     private static final Logger log = Logger.getLogger(CounterServlet.class.getName());
 
