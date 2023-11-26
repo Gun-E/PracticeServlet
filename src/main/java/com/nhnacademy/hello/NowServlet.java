@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/nowServlet")
+@WebServlet(name = "nowServlet",urlPatterns = "/now")
 public class NowServlet extends HttpServlet {
     private static Logger log = Logger.getLogger(NowServlet.class.getName());
 
