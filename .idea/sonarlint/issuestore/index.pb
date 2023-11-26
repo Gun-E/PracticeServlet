@@ -1,6 +1,4 @@
 
-9
-	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 S
 #src/main/webapp/WEB-INF/multi2.html,c/e/cef62e86d84c133b777313a35c987acefaf9ee24
 R
@@ -33,8 +31,6 @@ e
 5src/main/java/com/nhnacademy/hello/MultiServlet2.java,6/a/6a392ca5503088e3733df97bbfbf8eeeef7d090a
 k
 ;src/main/java/com/nhnacademy/hello/login/LogoutServlet.java,c/4/c42011193339e5019b6e4ce785f84476e876001a
-_
-/src/main/java/com/nhnacademy/hello/Request.java,1/d/1d9056e8bdd458da297258c18c1a25bf8a9d58ae
 f
 6src/main/java/com/nhnacademy/hello/CounterServlet.java,d/a/da8f259e7a8830ff5d8cea43cc32b341fcddeb9f
 j
