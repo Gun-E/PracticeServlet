@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-@WebServlet("/nowServlet2")
+@WebServlet(name = "nowServlet2",urlPatterns = "/now2")
 public class NowServlet2 extends HttpServlet {
     private static final Logger log = Logger.getLogger(NowServlet2.class.getName());
 
