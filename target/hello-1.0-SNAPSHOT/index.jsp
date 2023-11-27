@@ -59,7 +59,15 @@
 <br/>
 <a href="JSPEL/operator.jsp">22. EL 기본 문법 - 연산자</a>
 <br/>
-<a href="JSTL/standard.jsp">23. JSTL - 일반</a>
+<a href="jstlJSP/standard.jsp">23. JSTL - 일반</a>
+<br/>
+<a href="jstlJSP/ifFor.jsp">24. JSTL - 조건,반복문</a>
+<br/>
+<a href="jstlJSP/jstl3.jsp">25. JSTL - jstl3.jsp</a>
+<br/>
+<a href="jstlJSP/hello.jsp">26. JSTL - hello.jsp</a>
+<br/>
+<a href="jstl/notice">27. JSTL - 공지사항 list 출력</a>
 
 
 
