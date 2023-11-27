@@ -1,9 +1,11 @@
 package com.nhnacademy.hello.listener;
 
 import java.util.concurrent.atomic.AtomicInteger;
+import javax.servlet.annotation.WebListener;
 import javax.servlet.http.HttpSessionEvent;
 import javax.servlet.http.HttpSessionListener;
 
+@WebListener
 public class SessionListener implements HttpSessionListener {
     private final AtomicInteger atomicInteger = new AtomicInteger();
 
