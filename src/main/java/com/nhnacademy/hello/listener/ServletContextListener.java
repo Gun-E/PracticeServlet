@@ -4,7 +4,9 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 import javax.servlet.ServletContext;
 import javax.servlet.ServletContextEvent;
+import javax.servlet.annotation.WebListener;
 
+@WebListener
 public class ServletContextListener implements javax.servlet.ServletContextListener {
 
     @Override
