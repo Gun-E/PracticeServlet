@@ -37,6 +37,29 @@
 <br/>
 <br/>
 <a href="JSPPractice.jsp">12. JSP 실습</a>
+<br/>
+<a href="sessionCounter.jsp">13. sessionCounter 실습</a>
+<br/>
+<a href="globalCounter.jsp">14. globalCounter 실습</a>
+<br/>
+<a href="gugudan.jsp">15. 구구단 실습</a>
+<br/>
+<a href="implicit.jsp">16. implicit 실습</a>
+<br/>
+<a href="scope/pageContext.jsp">17. pageContext 실습</a>
+<br/>
+<a href="scope/sub.jsp">18. sub 실습</a>
+<br/>
+<br/>
+<a href="scope/bean.jsp">19. JavaBeans 실습</a>
+<br/>
+<a href="beautify.html">20. Beautifier JavaBeans 구현</a>
+<br/>
+<a href="JSPEL/EL.jsp">21. EL 기본 문법 - 배열, 리스트, 맵</a>
+<br/>
+<a href="JSPEL/operator.jsp">22. EL 기본 문법 - 연산자</a>
+<br/>
+<a href="JSTL/standard.jsp">23. JSTL - 일반</a>
 
 
 

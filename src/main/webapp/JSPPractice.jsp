@@ -5,7 +5,7 @@
 </head>
 <body>
 <%
-    String message = "Hello, JSP!\n";
+    String message = "Hello, JSP!";
     out.println(message);
 %>
 <%
