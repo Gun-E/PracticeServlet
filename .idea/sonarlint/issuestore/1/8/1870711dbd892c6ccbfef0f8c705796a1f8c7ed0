@@ -1,0 +1,13 @@
+
+W
+java:S1118":Add a private constructor to hide the implicit public one.(â«À¦8±û¨ÌÁ1
+I
+java:S3011",This accessibility update should be removed.(˜ÂÓ˜8Ëû¨ÌÁ1
+I
+java:S3011",This accessibility bypass should be removed.(²°8Ìû¨ÌÁ1
+a
+java:S2147"DCombine this catch with the one at line 28, which has the same body.(Å¡ß8Óû¨ÌÁ1
+a
+java:S2147 "DCombine this catch with the one at line 30, which has the same body.(åşáÿ8Ôû¨ÌÁ1
+f
+java:S2147""DCombine this catch with the one at line 32, which has the same body.(¼¯•¶ùÿÿÿÿ8Ôû¨ÌÁ1
