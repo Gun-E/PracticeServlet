@@ -17,7 +17,7 @@ import javax.servlet.http.HttpSession;
 
 @WebServlet(name = "loginServlet",urlPatterns = "/login", initParams = {
         @WebInitParam(name = "id",value = "admin"),
-        @WebInitParam(name = "pwd",value = "1234123")
+        @WebInitParam(name = "pwd",value = "12341237656")
 })
 public class LoginServlet extends HttpServlet {
     private String initParamId;
